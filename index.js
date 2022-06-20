@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const transformer = require("hermes-profile-transformer").default;
 const { writeFileSync } = require("fs");
 const path = require("path");
