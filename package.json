@@ -1,0 +1,9 @@
+{
+  "name": "@reeywhaar/hermes-profile-transformer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "hermes-profile-transformer": "^0.0.9"
+  }
+}
